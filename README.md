@@ -1,43 +1,40 @@
-<h1 align="center">Hi 👋, I'm TNT10128</h1>
-<h3 align="center">Certified back-end software developer | Game modder</h3>
-<h6 align="center">I have experience with a variety of programming technologies to deliver the best software possible.</h6>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=TNT10128&style=for-the-badge" alt="Profile views"></p>
-    
-<hr>
+# Hi 👋, I'm TNT10128
+I am a certified backend software developer with experience in a variety of technologies. In my free time, I make Minecraft plugins and Discord bots.
 
-<h2 align="center">Statistics</h2>
+![Profile views](https://komarev.com/ghpvc/?username=TNT10128&style=for-the-badge)
 
+## Statistics
+![Profile trophies](https://github-profile-trophy.vercel.app/?username=TNT10128&theme=darkhub&row=1&column=7)
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=TNT10128&show_icons=true&theme=rose_pine&locale=en)
+![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=TNT10128&show_icons=true&theme=rose_pine&locale=en&layout=compact)
+
+## About me
+- 📅 I have over **5 years** of programming experience
+- 🔭 I’m developing a **new, custom-coded** Minecraft server
+- 🌱 I'm learning **Swift**, **Rust**, and **Go**
+
+## Languages and Tools
 <span>
-    <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TNT10128&theme=discord&row=1&column=7" alt="TNT10128" /></p>
-  <p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=TNT10128&show_icons=true&theme=dark&locale=en" alt="TNT10128" />
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=TNT10128&show_icons=true&theme=dark&locale=en&layout=compact" alt="TNT10128" /></p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java logo" width="40">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux logo" width="40">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET logo" width="40">
 </span>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TNT10128&theme=dark" alt="TNT10128" /></p>
-
-<hr>
-
-<h2 align="center">Languages and Tools</h2>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   </a> 
-<hr>
-
-<h2 align="center">About me</h2>
-
-- 📅 I've been programming for almost **5 years**
-- 🔭 I’m currently working on **a new, custom-coded Minecraft PvP server**
-- 🌱 I’m currently learning **web development**, **Node.js**, and **Swift**
-
-<hr>
-
-<h3 align="center">Primary projects</h3>
-
-<span>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tnt10128&repo=mStats&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tnt10128&repo=hwidkit&theme=dark" /></p>
-</span>
+## Primary projects
+- ### mStats
+    - Unifying the Minecraft game and Discord communication platform.  
+    [Repository](https://github.com/tnt10128/mStats) | [Invite](https://discord.com/api/oauth2/authorize?client_id=1045365024425775114&permissions=313344&scope=bot%20applications.commands)
+- ### HWIDKit
+    - Generate unique identifiers for user devices. Track application usage, or create your own licensing system.  
+    [Repository](https://github.com/tnt10128/HWIDKit)
